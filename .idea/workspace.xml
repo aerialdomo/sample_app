@@ -19,10 +19,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="27" selection-start="917" selection-end="917" vertical-scroll-proportion="0.8706468">
+            <state line="37" column="46" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.rdoc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.12437811">
               <folding />
             </state>
           </provider>
@@ -34,6 +43,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -331,7 +341,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="27" selection-start="917" selection-end="917" vertical-scroll-proportion="0.8706468">
+        <state line="37" column="46" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.12437811">
           <folding />
         </state>
       </provider>
